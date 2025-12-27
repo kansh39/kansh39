@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Data Executive at Elisyan India Pvt. Ltd., Bengaluru, with experience in data analysis, reporting, and Excel/VBA automation. I have worked on data cleaning, dashboard creation, and operational reporting, and previously gained internship experience in data science. I am proficient in Advanced Excel, SQL, Python, Power BI, and VBA (basic), and I communicate effectively in English (intermediate) and Hindi (fluent).
+I am a Data Analyst with experience in data analysis, reporting, and automation, along with hands-on exposure to machine learning and AI projects. I have worked on data cleaning, dashboard creation, and analytical reporting, and developed ML-based projects including a Voice-to-Image Generation system using OpenAI Whisper for speech-to-text and diffusion models for image generation. I am proficient in Advanced Excel, SQL, Python, Power BI, and basic VBA, with strong analytical thinking and project-driven problem-solving skills, and I communicate effectively in English (intermediate) and Hindi (fluent).
 
 
 # 💻 Tech Stack:
